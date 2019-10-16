@@ -1,54 +1,66 @@
 {
-	"posts": [{
-			"id": 1,
-			"title": "Post 1"
-		},
-		{
-			"id": 2,
-			"title": "Post 2"
-		},
-		{
-			"id": 3,
-			"title": "Post 3"
-		}
-	],
-	"comments": [{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
-		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "typicode"
-	},
-	"searchResults": [{
-		"sku": "TAM35247",
-		"description": "Sherman Tank",
-		"scale": "1/35",
-		"in_stock": true,
-		"lowest_price": 34.95,
-		"vendor": [{
-				"vendor_name": "SprueBrothers",
-				"in_stock": false,
-				"price": 38.95,
-				"url": "http://www.spruebrothers.com"
-			},
-			{
-				"vendor_name": "Kitlinx",
-				"in_stock": true,
-				"price": 34.95,
-				"url": "http://www.kitlinx.com"
-			}, {
-				"vendor_name": "MegaHobby",
-				"in_stock": true,
-				"price": 40.95,
-				"url": "http://www.megahobby.com"
-			}
-		]
-	}]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "searchResults":[
+    {"sku":"TAM35247",
+     "description": "Sherman Tank",
+     "scale" : "1/35",
+     "in_stock": true,
+     "lowest_price": 34.95,
+     "vendor":[
+        {
+          "vendor_name" : "SprueBrothers",
+          "in_stock" : false,
+          "price" : 38.95,
+          "url" : "http://www.spruebrothers.com"
+        },
+       {
+          "vendor_name" : "Kitlinx",
+          "in_stock" : true,
+          "price" : 34.95,
+         "url" : "http://www.kitlinx.com"
+        },{
+          "vendor_name" : "MegaHobby",
+          "in_stock" : true,
+          "price" : 40.95,
+          "url" : "http://www.megahobby.com"
+        }
+       ]
+      },
+      {"sku":"DML6012",
+       "description": "Tiger I",
+       "scale" : "1/35",
+       "in_stock": true,
+       "lowest_price": 44.95,
+       "vendor":[
+          {
+            "vendor_name" : "SprueBrothers",
+            "in_stock" : false,
+            "price" : 44.95,
+            "url" : "http://www.spruebrothers.com"
+          },
+         {
+            "vendor_name" : "Kitlinx",
+            "in_stock" : true,
+            "price" : 48.95,
+           "url" : "http://www.kitlinx.com"
+          },{
+            "vendor_name" : "MegaHobby",
+            "in_stock" : true,
+            "price" : 50.95,
+            "url" : "http://www.megahobby.com"
+          }
+         ]
+        }
+  ]
 }
