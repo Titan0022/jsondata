@@ -25,5 +25,12 @@
 	],
 	"profile": {
 		"name": "typicode"
-	}
+	},
+	"searchResults": [{
+		"sku": "TAM35247",
+		"description": "Sherman Tank",
+		"scale": "1/35",
+		"in_stock": true,
+		"lowest_price": 34.95
+	}]
 }
