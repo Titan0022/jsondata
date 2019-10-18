@@ -17,6 +17,7 @@
      "scale" : "1/35",
      "in_stock": true,
      "lowest_price": 34.95,
+     "picture_main" : "https://images.smartcart.com/kitlinx/thumbs/Tamiya/th_TAM35247.jpg",
      "vendor":[
         {
           "vendor_name" : "SprueBrothers",
@@ -28,7 +29,7 @@
           "vendor_name" : "Kitlinx",
           "in_stock" : true,
           "price" : 34.95,
-         "url" : "http://www.kitlinx.com"
+          "url" : "http://www.kitlinx.com"
         },{
           "vendor_name" : "MegaHobby",
           "in_stock" : true,
@@ -42,6 +43,7 @@
        "scale" : "1/35",
        "in_stock": true,
        "lowest_price": 44.95,
+       "picture_main" : "https://cdn3.volusion.com/hefpe.jgpkc/v/vspfiles/photos/DML6012-2T.jpg",
        "vendor":[
           {
             "vendor_name" : "SprueBrothers",
