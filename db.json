@@ -63,6 +63,27 @@
             "url" : "http://www.megahobby.com"
           }
          ]
+        },
+    {"sku":"DML1006",
+     "description": "USS Spruance DD-963 OR 967",
+     "scale" : "1/350",
+     "in_stock": true,
+     "lowest_price": 34.95,
+     "picture_main" : "https://images.smartcart.com/kitlinx/thumbs/Tamiya/th_TAM35247.jpg",
+     "vendor":[
+        {
+          "vendor_name" : "SprueBrothers",
+          "in_stock" : true,
+          "price" : 42.95,
+          "url" : "http://www.spruebrothers.com"
+        },
+       {
+          "vendor_name" : "Kitlinx",
+          "in_stock" : false,
+          "price" : 43.19,
+          "url" : "https://www.kitlinx.com/cgi/display.cgi?item_num=DML1006"
         }
+       ]
+      }
   ]
 }
