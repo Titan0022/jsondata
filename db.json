@@ -13,10 +13,10 @@
   },
   "searchResults":[
     {"sku":"TAM35247",
-     "description": "Sherman Tank",
+     "description": "German Field Kitchen Scenery",
      "scale" : "1/35",
      "in_stock": true,
-     "lowest_price": 34.95,
+     "lowest_price": 15.99,
      "picture_main" : "https://images.smartcart.com/kitlinx/thumbs/Tamiya/th_TAM35247.jpg",
      "vendor":[
         {
@@ -28,7 +28,7 @@
        {
           "vendor_name" : "Kitlinx",
           "in_stock" : true,
-          "price" : 34.95,
+          "price" : 15.99,
           "url" : "http://www.kitlinx.com"
         },{
           "vendor_name" : "MegaHobby",
@@ -82,6 +82,21 @@
           "in_stock" : false,
           "price" : 43.19,
           "url" : "https://www.kitlinx.com/cgi/display.cgi?item_num=DML1006"
+        }
+       ]
+      },
+      {"sku":"TSM9522",
+     "description": "USS Spruance DD-963 OR 967",
+     "scale" : "1/35",
+     "in_stock": false,
+     "lowest_price": 34.95,
+     "picture_main" : "https://images.smartcart.com/kitlinx/thumbs/Trumpeter/th_TSM9522.jpg",
+     "vendor":[
+        {
+          "vendor_name" : "Kitlinx",
+          "in_stock" : false,
+          "price" : 134.99,
+          "url" : "https://www.kitlinx.com/cgi/display.cgi?item_num=TSM9522"
         }
        ]
       }
