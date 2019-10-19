@@ -99,6 +99,21 @@
           "url" : "https://www.kitlinx.com/cgi/display.cgi?item_num=TSM9522"
         }
        ]
+      },
+       {"sku":"GUZ43",
+     "description": "Solvent-Based Acrylic Semi-Gloss Wood Brown 10ml Bottle",
+     "scale" : "",
+     "in_stock": true,
+     "lowest_price": 3.32,
+     "picture_main" : "https://images.smartcart.com/kitlinx/thumbs/Gunzesangyo/th_GUZ43.jpg",
+     "vendor":[
+        {
+          "vendor_name" : "Kitlinx",
+          "in_stock" : true,
+          "price" : 3.32,
+          "url" : "https://www.kitlinx.com/cgi/display.cgi?item_num=GUZ43"
+        }
+       ]
       }
   ]
 }
