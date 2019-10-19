@@ -114,6 +114,21 @@
           "url" : "https://www.kitlinx.com/cgi/display.cgi?item_num=GUZ43"
         }
        ]
+      },
+       {"sku":"ABT722",
+     "description": "Panzerwaffe Tarnfarben Camouflage Colours & Organization of the German Armoured Force 1917-1945",
+     "scale" : "",
+     "in_stock": true,
+     "lowest_price": 43.99,
+     "picture_main" : "https://images.smartcart.com/kitlinx/thumbs/Abteilung/th_ABT722.jpg",
+     "vendor":[
+        {
+          "vendor_name" : "Kitlinx",
+          "in_stock" : true,
+          "price" : 43.99,
+          "url" : "https://www.kitlinx.com/cgi/display.cgi?item_num=ABT722"
+        }
+       ]
       }
   ]
 }
